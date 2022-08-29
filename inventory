@@ -1,0 +1,28 @@
+automationcontroller:
+  hosts:
+    # 192.168.122.138: # standalone kvm host
+    controller01.localdomain:
+      ansible_host: 192.168.122.218
+
+execution_nodes:
+  hosts:
+    # 192.168.122.138: # standalone kvm host
+    exec01.localdomain:
+      ansible_host: 192.168.122.138
+
+automationhub:
+  hosts:
+    # 192.168.122.138: # standalone kvm host
+    hub01.localdomain:
+      ansible_host: 192.168.122.190
+
+database:
+  hosts:
+    # 192.168.122.138: # standalone kvm host
+    db01.localdomain:
+      ansible_host: 192.168.122.43
+
+bastion:
+  hosts:
+    bastion01.localdomain:
+      ansible_host: 192.168.122.152

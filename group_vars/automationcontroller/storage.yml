@@ -1,0 +1,3 @@
+volumes:
+  - mountpoint: / # mountpoint path
+    size: 10 # value in GB
