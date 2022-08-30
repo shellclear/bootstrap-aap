@@ -9,5 +9,5 @@ collections:
   #   type: git 
 
   - name: ppacific.aap
-    version: 5.0.2
+    version: 1.0.0
     source: https://hub01.localdomain/api/galaxy/content/published/
