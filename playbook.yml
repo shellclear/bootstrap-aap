@@ -1,6 +1,6 @@
 - name: Ensure the nodes has the compute, storage and basic configuration requirements 
   hosts: all
   collections:
-    - ppacific.aap
+    - shellclear.aap
   roles:
     - aap_requirements_check
