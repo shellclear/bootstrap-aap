@@ -8,6 +8,6 @@ collections:
   #   version: main
   #   type: git 
 
-  - name: ppacific.aap
+  - name: shellclear.aap
     version: 1.0.1
     source: https://hub01.localdomain/api/galaxy/content/published/
