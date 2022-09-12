@@ -10,4 +10,4 @@ collections:
 
   - name: shellclear.aap
     version: 1.0.0
-    source: https://hub01.localdomain/api/galaxy/content/published/
+    # source: https://hub01.localdomain/api/galaxy/content/published/
