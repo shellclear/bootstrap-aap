@@ -1,13 +1,4 @@
 ---
 collections:
-  # - name: community.general
-  #   version: 5.5.0
-  #   source: https://hub01.localdomain/api/galaxy/content/community/
-
-  # - name: https://github.com/shellclear/aap.git
-  #   version: main
-  #   type: git 
-
-  - name: shellclear.aap
+  - name: shellclear.ansible_collection_aap
     version: 1.0.0
-    # source: https://hub01.localdomain/api/galaxy/content/published/
