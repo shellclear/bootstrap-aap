@@ -1,3 +1,5 @@
+
+---
 automationcontroller:
   hosts:
     controller01.localdomain:
@@ -32,3 +34,4 @@ bastion:
   hosts:
     bastion01.localdomain:
       ansible_host: 192.168.122.152
+...
