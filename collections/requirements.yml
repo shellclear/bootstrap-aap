@@ -1,4 +1,6 @@
 ---
 collections:
-  - name: shellclear.ansible_collection_aap
-    version: 1.0.0
+  - name: "https://github.com/shellclear/ansible_collection_aap.git"
+    version: "main"
+    type: "git"
+...
