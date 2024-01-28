@@ -1,6 +1,0 @@
-- name: Ensure the nodes has the compute, storage and basic configuration requirements 
-  hosts: all
-  collections:
-    - shellclear.ansible_collection_aap
-  roles:
-    - aap_requirements_check
